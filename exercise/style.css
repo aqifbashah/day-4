@@ -6,6 +6,12 @@
   padding: 0;
   box-sizing: border-box;
   font-family: Montserrat;
+  scroll-behavior: smooth;
+}
+
+a {
+  all: unset;
+  cursor: pointer;
 }
 
 h3 {
